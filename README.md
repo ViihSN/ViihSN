@@ -1,8 +1,9 @@
 ## Oii eu sou a Vitória SN 🥰
 
-- 🌱𝒟𝑒𝓈𝑒𝓃𝓋𝑜𝓁𝓋𝑒𝒹𝑜𝓇𝒶 𝐹𝓇𝑜𝓃𝓉-𝑒𝓃𝒹 - 𝐸𝓈𝓉𝓊𝒹𝒶𝓃𝒹𝑜 Java Script.
+- 🌱 Desenvolvimento Front-end = Estudando Java Script.
 
-- 🌛𝒫𝓇𝑜𝓃𝑜𝓊𝓃𝓈: 𝐸𝓁𝒶/𝒟𝑒𝓁𝒶
+- 🌛 Pronousns: Ela/Dela
+
 
 
 <div align="center">
