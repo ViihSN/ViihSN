@@ -2,16 +2,17 @@
 
 - 🌱 Desenvolvimento Front-end = Estudando Java Script.
 
-- 🌛 Pronousns: Ela/Dela
+- 🌛 Pronousns: Ela/Dela 
 
-
+<div align="center">
+  <img src="https://github.com/ViihSN/ViihSN/assets/93055828/4357d420-fb53-45ff-811f-158b008181f1" ></a>
+</div>       
 
 <div align="center">
   <a href="https://github.com/ViihSN">
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=viihsn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viihsn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 
 <div> 
   <a href="https://www.instagram.com/vitoriasnofc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
