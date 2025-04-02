@@ -1,6 +1,6 @@
 ## Oii eu sou a Vitória SN 🥰
 
-🌱 Desenvolvimento Front-end = Estudando React
+🌱 Desenvolvedora de Software = Estudando PHP.
 
 <div align="center">
   <img src="https://github.com/ViihSN/ViihSN/assets/93055828/4357d420-fb53-45ff-811f-158b008181f1" ></a>
